@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQgACAAAAAAAAAAAAAAAPB3d3cPAAAAAAAAAAAAAAB/d3d3DwAAAAAAAAAAAAAAf3d3/w8AAAAAAADw//8PAH/3/wAAAPD/AAAA/xER/w9/9wAAAADw9wAA8P8RERH//////wAA8PcAAH/3ERER8Xd3d/f//3/3APB/9x8REfF39/9//3939wDw/3f/8RHxd////3d/d/cA8P9/9xEf8Xf3//93f3f3AAB///cf8fF3dxH/d////wAAf/d//xHxd3f//3cPAAAAAH93f/f//3d3//93DwAAAAB/d3d3//93d///dw8AAAAAf3d3d/f/d3f//3cPAAAAAH93f3f//3d3//93DwAAAAB/93/3//93d///dw8AAAAAf/93/xHxd3f//3f///8A8P9/9x/x8Xd3Ef93f3f3APD/d/cRH/F39///d3939wDwf3f/8RHxd////3d/d/cAAH/3HxER8Xf3/3///3/3AAB/9xEREfF3d3f3DwDw9wAA8P8RERH//////wAA8PcAAAD/ERH/D3/3AAAAAPD/AAAA8P//DwB/9/8PAAAAAAAAAAAAAAAAf3d3/wAAAAAAAAAAAAAAAH93d/cPAAAAAAAAAAAAAADwd3d3DwAAAAAAAAAAAAAAAH939w8AAAAAAAAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy 1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
