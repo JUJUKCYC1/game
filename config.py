@@ -1,0 +1,26 @@
+# Game Configuration
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+TILE_SIZE = 32
+
+# Colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+DARK_GREEN = (34, 139, 34)
+LIGHT_GREEN = (144, 238, 144)
+BLUE = (0, 100, 200)
+RED = (255, 0, 0)
+GOLD = (255, 215, 0)
+
+# Player
+PLAYER_SPEED = 4
+PLAYER_HEALTH = 100
+
+# Enemy
+ENEMY_SPEED = 2
+ENEMY_HEALTH = 20
+
+# World
+WORLD_WIDTH = 2400  # 75 tiles
+WORLD_HEIGHT = 1800  # 56 tiles
